@@ -1,0 +1,15 @@
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\bin\Debug\net6.0\AddEmUpGame.exe
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\bin\Debug\net6.0\AddEmUpGame.deps.json
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\bin\Debug\net6.0\AddEmUpGame.runtimeconfig.json
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\bin\Debug\net6.0\AddEmUpGame.dll
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\bin\Debug\net6.0\AddEmUpGame.pdb
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\obj\Debug\net6.0\AddEmUpGame.csproj.AssemblyReference.cache
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\obj\Debug\net6.0\AddEmUpGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\obj\Debug\net6.0\AddEmUpGame.AssemblyInfoInputs.cache
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\obj\Debug\net6.0\AddEmUpGame.AssemblyInfo.cs
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\obj\Debug\net6.0\AddEmUpGame.csproj.CoreCompileInputs.cache
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\obj\Debug\net6.0\AddEmUpGame.dll
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\obj\Debug\net6.0\refint\AddEmUpGame.dll
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\obj\Debug\net6.0\AddEmUpGame.pdb
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\obj\Debug\net6.0\AddEmUpGame.genruntimeconfig.cache
+C:\Users\81703\OneDrive\Desktop\AddEmUpGame\AddEmUpGame\obj\Debug\net6.0\ref\AddEmUpGame.dll
